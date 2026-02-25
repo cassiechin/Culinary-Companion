@@ -1,0 +1,5 @@
+{
+  "name": "Culinary Companion",
+  "description": "A smart personal recipe manager with inventory tracking, cookability insights, and automated shopping lists.",
+  "requestFramePermissions": []
+}
